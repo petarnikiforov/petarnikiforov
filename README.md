@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Petar Nikiforov</h1>
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
-img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.87170709.1707955200&semt=ais"
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.87170709.1707955200&semt=ais">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petarnikiforov&label=Profile%20views&color=0e75b6&style=flat" alt="petarnikiforov" /> </p>
 
