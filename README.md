@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [OnlineStore](https://github.com/petarnikiforov/OnlineStore)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/petarnikiforov?tab=repositories](https://github.com/petarnikiforov?tab=repositories)
 
